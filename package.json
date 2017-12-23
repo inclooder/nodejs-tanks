@@ -1,0 +1,16 @@
+{
+  "name": "shared_whiteboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inclooder@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socketio": "^1.0.0",
+    "underscore": "^1.8.3"
+  }
+}
